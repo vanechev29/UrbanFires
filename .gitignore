@@ -1,0 +1,77 @@
+# OS junk
+.DS_Store
+
+# Local git hooks (keep repo code-free)
+.githooks/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Keep only Data and Output under Incidents (no code/docs for now)
+Incidents/*
+!Incidents/Data/
+!Incidents/Output/
+!Incidents/Data/**
+!Incidents/Output/**
+
+# Ignore embedded repo + macOS junk inside Incidents
+Incidents/.git/
+Incidents/**/.DS_Store
+
+# No code files anywhere
+*.ipynb
+*.R
+*.Rmd
+*.Rproj
+*.nb.html
+
+# Explicit sensitive datasets (incidents/hydrants/roads)
+Incidents/Data/**/*Hydrant*
+Incidents/Data/**/*Hydrants*
+Incidents/Output/**/*Hydrant*
+Incidents/Output/**/*hydrant*
+
+Incidents/Data/**/*Incident*
+Incidents/Data/**/*incident*
+Incidents/Output/**/*Incident*
+Incidents/Output/**/*incident*
+
+Incidents/Data/**/*Structure_Fire*
+Incidents/Data/**/*StructureFire*
+Incidents/Data/**/*Structure-Fire*
+Incidents/Output/**/*Structure_Fire*
+Incidents/Output/**/*StructureFire*
+Incidents/Output/**/*Structure-Fire*
+
+Incidents/Data/**/*SB_incidents*
+Incidents/Output/**/*SB_incidents*
+Incidents/Data/**/*IncidentsClean*
+Incidents/Output/**/*IncidentsClean*
+Incidents/Data/**/*UrbanIncidents*
+Incidents/Output/**/*UrbanIncidents*
+
+Incidents/Data/**/*TableIncidentsCity*
+Incidents/Data/**/*UCSB-Structure-Fire-PRA_2024-08-29_103317*
+Incidents/Data/**/*incidentsenriched*
+Incidents/Data/**/*inp_table_cleaned*
+Incidents/Output/**/*incidentsenriched*
+Incidents/Output/**/*inp_table_cleaned*
+
+Incidents/Data/**/*corrected_road_net*
+Incidents/Data/**/*centerlines_122110*
+Incidents/Output/**/*corrected_road_net*
+Incidents/Output/**/*centerlines_122110*
+
+Incidents/Data/**/*SBCountyFires*
+Incidents/Data/**/*ignitionhistory*

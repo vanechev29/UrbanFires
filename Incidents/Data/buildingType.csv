@@ -1,0 +1,43 @@
+﻿ID_building_Type,Name_building_type,USER_Basic_Property_Use_Code_And_Description__FD1_46_
+1,Residential,"439 - Boarding/rooming house, residential hotels"
+1,Residential,419 - 1 or 2 family dwelling
+1,Residential,"449 - Hotel/motel, commercial"
+3,Commercial,981 - Construction site
+1,Residential,429 - Multifamily dwelling
+2,Outbuilding,808 - Outbuilding or shed
+1,Residential,"460 - Dormitory-type residence, other"
+1,Residential,"400 - Residential, other"
+2,Outbuilding,"881 - Parking garage, (detached residential garage)"
+3,Commercial,"557 - Personal service, including barber & beauty shops"
+4,Institutional,"631 - Defense, military installation"
+3,Commercial,659 - Livestock production
+3,Commercial,"500 - Mercantile, business, other"
+3,Commercial,"160 - Eating, drinking places, other"
+3,Commercial,"529 - Textile, wearing apparel sales"
+3,Commercial,161 - Restaurant or cafeteria
+4,Institutional,"241 - Adult education center, college classroom"
+3,Commercial,"539 - Household goods, sales, repairs"
+1,Residential,"311 - 24-hour care Nursing homes, 4 or more persons"
+3,Commercial,"882 - Parking garage, general vehicle"
+4,Institutional,888 - Fire station
+3,Commercial,"519 - Food and beverage sales, grocery store"
+4,Institutional,211 - Preschool
+3,Commercial,"580 - General retail, other"
+2,Outbuilding,"926 - Outbuilding, protective shelter"
+3,Commercial,599 - Business office
+3,Commercial,"579 - Motor vehicle or boat sales, services, repair"
+3,Commercial,"600 - Ind., utility, defense, agriculture, mining, other"
+4,Institutional,629 - Laboratory or science laboratory
+3,Commercial,"700 - Manufacturing, Processing"
+3,Commercial,"564 - Laundry, dry cleaning"
+4,Institutional,"110 - Fixed-use recreation places, other"
+5,Other,931 - Open land or field
+3,Commercial,"144 - Casino, gambling clubs"
+3,Commercial,839 - Refrigerated storage
+3,Commercial,"571 - Service station, gas station"
+4,Institutional,331 - Hospital - medical or psychiatric
+3,Commercial,"880 - Vehicle storage, other"
+4,Institutional,"213 - Elementary school, including kindergarten"
+3,Commercial,581 - Department or discount store
+3,Commercial,549 - Specialty shop
+1,Residential,459 - Residential board and care
